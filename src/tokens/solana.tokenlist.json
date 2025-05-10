@@ -1,10 +1,10 @@
 ,
 {
   "chainId": 101,
-  "address": "PUT_YOUR_REAL_TOKEN_ADDRESS_HERE",
+  "address": "F2Qo7RcrdUQ7MUWwU6W25nYzLM5qnc3AHs2yvwiJAZLJ",
   "symbol": "TURP$",
   "name": "Turple",
   "decimals": 9,
-  "logoURI": "https://yourwebsite.com/turple-logo.png",
+  "logoURI": "https://imgur.com/a/6KKvqco",
   "tags": ["utility-token", "community"]
 }
